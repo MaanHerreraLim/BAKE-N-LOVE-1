@@ -1,0 +1,48 @@
+* {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url(./images/purbla.jpg) center fixed;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.logo {
+    width: 100%;
+    min-width: 150px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.about-image {
+    width: 100%;
+
+}
+
+.img-thumbnail {
+    border: none;
+}
+
+.grid-table {
+    border: solid 1px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.products {
+    width: 100px;
+    min-width: 150px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.form-control {
+    background: white;
+
+}
+
+.form-select {
+    background: white;
+
+}
